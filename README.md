@@ -32,15 +32,18 @@
 [<img align="left" alt="kang-jie-tan | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="kang-jie-tan | AngelList" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angellist.svg" />][linkedin]
 
-[website]: https://kangjietan.com/
-[linkedin]: https://www.linkedin.com/in/kang-jie-tan-68356b177/
-[angellist]: https://angel.co/u/kang-jie-tan
+<br />
+<br />
 
 ---
 ### Github Stats
 
 <img align="left" alt="kangjietan's Github stats" src="https://github-readme-stats.vercel.app/api?username=kangjietan&show_icons=true&hide_border=true&theme=tokyonight" />
 <img align="left" alt="kangjietan's Github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangjietan&theme=tokyonight" />
+
+[website]: https://kangjietan.com/
+[linkedin]: https://www.linkedin.com/in/kang-jie-tan-68356b177/
+[angellist]: https://angel.co/u/kang-jie-tan
 
 <!--
 **kangjietan/kangjietan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
