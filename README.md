@@ -30,7 +30,7 @@
 ### Social
 [<img align="left" alt="kangjietan.com" width="35px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="kang-jie-tan | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="kang-jie-tan | AngelList" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angellist.svg" />][linkedin]
+[<img align="left" alt="kang-jie-tan | AngelList" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angellist.svg" />][angellist]
 
 <br />
 <br />
