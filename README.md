@@ -38,7 +38,7 @@
 ---
 ### Github Stats
 
-<img align="left" alt="kangjietan's Github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangjietan&theme=tokyonight" />
+<img align="left" alt="kangjietan's Github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangjietan&theme=tokyonight&hide_border=true" />
 <img align="left" alt="kangjietan's Github stats" src="https://github-readme-stats.vercel.app/api?username=kangjietan&show_icons=true&hide_border=true&theme=tokyonight" />
 
 [website]: https://kangjietan.com/
