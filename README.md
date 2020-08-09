@@ -36,6 +36,12 @@
 [linkedin]: https://www.linkedin.com/in/kang-jie-tan-68356b177/
 [angellist]: https://angel.co/u/kang-jie-tan
 
+---
+### Github Stats
+
+<img align="left" alt="kangjietan's Github stats" src="https://github-readme-stats.vercel.app/api?username=kangjietan&show_icons=true&hide_border=true&theme=tokyonight" />
+<img align="left" alt="kangjietan's Github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangjietan&theme=tokyonight" />
+
 <!--
 **kangjietan/kangjietan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
