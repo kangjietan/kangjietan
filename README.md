@@ -39,7 +39,7 @@
 ### Github Stats
 
 <img align="left" alt="kangjietan's Github stats" src="https://github-readme-stats.vercel.app/api?username=kangjietan&show_icons=true&hide_border=true&theme=tokyonight" />
-<img align="left" alt="kangjietan's Github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangjietan&theme=tokyonight" />
+<img align="left" alt="kangjietan's Github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangjietan&theme=tokyonight&layout=compact" />
 
 [website]: https://kangjietan.com/
 [linkedin]: https://www.linkedin.com/in/kang-jie-tan-68356b177/
