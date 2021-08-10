@@ -5,7 +5,7 @@
 <br />
 
 ### Languages and Tools
-<div style="display:flex; gap: 1rem;">
+<div style="display:flex; gap: 1rem; margin-bottom: 1rem;">
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -25,16 +25,23 @@
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </div>
 
-<br />
-<br />
-
-### Social
-[<img align="left" alt="kangjietan.com" width="35px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+---
+### Socials
+<!-- [<img align="left" alt="kangjietan.com" width="35px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="kang-jie-tan | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="kang-jie-tan | AngelList" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angellist.svg" />][angellist]
+[<img align="left" alt="kang-jie-tan | AngelList" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angellist.svg" />][angellist] -->
 
-<br />
-<br />
+<div style="display: flex; gap: 1rem;">
+  <a href="https://kangjietan.com/">
+    <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="width: 35px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/kang-jie-tan-68356b177/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="width: 35px;" />
+  </a>
+  <a href="https://angel.co/u/kang-jie-tan">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angellist.svg" style="width: 35px;" />
+  </a>
+</div>
 
 ---
 
