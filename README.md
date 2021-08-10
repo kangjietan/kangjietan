@@ -25,9 +25,8 @@
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </div>
 
-<!-- [<img align="left" alt="kangjietan.com" width="35px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="kang-jie-tan | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="kang-jie-tan | AngelList" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angellist.svg" />][angellist] -->
+</br>
+
 <div style="display:flex; flex-direction:column;">
   <h3>Socials</h3>
   <div style="display: flex; gap: 1rem;">
