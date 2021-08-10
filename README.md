@@ -5,7 +5,7 @@
 <br />
 
 ### Languages and Tools
-<div style="display:flex; flex-direction: column; gap: 1rem; justify-content: center;">
+<div style="display:flex; flex-direction:column; gap:1rem;">
   <div style="display:flex; gap: 1rem; margin-bottom: 1rem;">
     <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
     <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
