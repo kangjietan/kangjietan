@@ -33,13 +33,13 @@
 
 <div style="display: flex; gap: 1rem;">
   <a href="https://kangjietan.com/">
-    <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="width: 35px;" />
+    <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="width: 35px; height:35px;" />
   </a>
   <a href="https://www.linkedin.com/in/kang-jie-tan-68356b177/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="width: 35px;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="width: 35px; height:35px;" />
   </a>
   <a href="https://angel.co/u/kang-jie-tan">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angellist.svg" style="width: 35px;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angellist.svg" style="width: 35px; height:35px;" />
   </a>
 </div>
 
