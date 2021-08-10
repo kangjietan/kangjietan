@@ -26,12 +26,13 @@
 </div>
 
 </br>
+</br>
 
 <div style="display:flex; flex-direction:column;">
   <h3>Socials</h3>
   <div style="display: flex; gap: 1rem;">
     <a href="https://kangjietan.com/">
-      <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="35px"/>
+      <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="35px" />
     </a>
     <a href="https://www.linkedin.com/in/kang-jie-tan-68356b177/">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="35px" />
