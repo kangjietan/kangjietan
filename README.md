@@ -11,12 +11,15 @@
       <a href="https://kangjietan.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="35px" />
       </a>
+      &nbsp;
       <a href="https://www.linkedin.com/in/kang-jie-tan-68356b177/" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="35px" />
       </a>
+      &nbsp;
       <a href="https://angel.co/u/kang-jie-tan" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angellist.svg" width="35px" />
       </a>
+      &nbsp;
     </div>
   </div>
 
@@ -145,13 +148,13 @@
 ## Github Stats
 
 <div align="left">
-  <img width="400" alt="kangjietan's Github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangjietan&theme=tokyonight&hide_border=true&langs_count=10&layout=compact" />
+  <img width="500" alt="kangjietan's Github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangjietan&theme=tokyonight&hide_border=true&langs_count=10&layout=compact" />
 </div>
 <div align="left">
-  <img width=400 alt="kangjietan's Github stats" src="https://github-readme-streak-stats.herokuapp.com/?user=kangjietan&theme=react&border=61dafb&hide_border=true&theme=tokyonight" />
+  <img width="500" alt="kangjietan's Github stats" src="https://github-readme-streak-stats.herokuapp.com/?user=kangjietan&theme=react&border=61dafb&hide_border=true&theme=tokyonight" />
 </div>
 <div align="left">
-  <img width="400" alt="kangjietan's Github stats" src="https://github-readme-stats.vercel.app/api?username=kangjietan&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img width="500" alt="kangjietan's Github stats" src="https://github-readme-stats.vercel.app/api?username=kangjietan&show_icons=true&hide_border=true&theme=tokyonight" />
 </div>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kangjietan.kangjietan">
