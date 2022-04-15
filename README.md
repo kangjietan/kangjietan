@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Kang
 
-## I'm a software engineer
+<p style="font-size: 1.5rem; font-weight: bold;">I'm a software engineer</p>
 
 </br>
 
