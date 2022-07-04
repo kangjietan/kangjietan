@@ -154,7 +154,7 @@
   <img width="500" alt="kangjietan's Github stats" src="https://github-readme-streak-stats.herokuapp.com/?user=kangjietan&theme=react&border=61dafb&hide_border=true&theme=tokyonight" />
 </div>
 <div align="left">
-  <img width="500" alt="kangjietan's Github stats" src="https://github-readme-stats.vercel.app/api?username=kangjietan&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img width="500" alt="kangjietan's Github stats" src="https://github-readme-stats.vercel.app/api?username=kangjietan&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
 </div>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kangjietan.kangjietan">
