@@ -45,14 +45,14 @@
     </tr>
     <tr>
       <td align="center" width="96">
-        <img alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />
+        <img alt="React Native" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />
         </br>
         React Native
       </td>
       <td align="center" width="96">
-        <img alt="React" width="30px" src="https://camo.githubusercontent.com/b0972dd62bbf6ee0e28ed0ebceb48427a481568caeeb639066b23c754f0c60e5/68747470733a2f2f7777772e6761747362796a732e636f6d2f4761747362792d4d6f6e6f6772616d2e737667" />
+        <img alt="Vue" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
         </br>
-        Gatsbyjs
+        Vue.js
       </td>
       <td align="center" width="96">
         <img alt="Redux" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
@@ -135,10 +135,6 @@
 </div>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kangjietan.kangjietan">
-
-[website]: https://kangjietan.com/
-[linkedin]: https://www.linkedin.com/in/kang-jie-tan-68356b177/
-[angellist]: https://angel.co/u/kang-jie-tan
 
 <!--
 **kangjietan/kangjietan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
