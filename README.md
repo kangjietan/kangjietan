@@ -2,29 +2,6 @@
 
 <p style="font-size: 1.5rem; font-weight: bold;">I'm a software engineer</p>
 
-</br>
-
-## Socials
-
-  <div style="display:flex; flex-direction:column;">
-    <div style="display: flex; gap: 1rem;">
-      <a href="https://kangjietan.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="35px" />
-      </a>
-      &nbsp;
-      <a href="https://www.linkedin.com/in/kang-jie-tan-68356b177/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="35px" />
-      </a>
-      &nbsp;
-      <a href="https://angel.co/u/kang-jie-tan" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angellist.svg" width="35px" />
-      </a>
-      &nbsp;
-    </div>
-  </div>
-
-</br>
-
 ## Tech
   <!-- <div align="center"> -->
   <table>
